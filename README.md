@@ -9,6 +9,9 @@ Responsive Design: Works on both desktop and mobile.
 Check out the live website here : https://gopalkeshri01.github.io/Burger-Restaurant/
 
 Tech Stack
+
 HTML: Structure of the website.
+
 CSS: Styling the website.
+
 JavaScript: For interactive features.
