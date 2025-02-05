@@ -5,8 +5,8 @@ Features
 Burger Menu: View different burger recipes.
 Burger Builder: Customize burgers with various ingredients.
 Responsive Design: Works on both desktop and mobile.
-Demo
-Check out the live website 
+
+Check out the live website here : https://gopalkeshri01.github.io/Burger-Restaurant/
 
 Tech Stack
 HTML: Structure of the website.
